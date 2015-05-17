@@ -15,7 +15,8 @@
 					<artifactId>maven-war-plugin</artifactId>
 					<version>2.1.1</version>
 					<configuration>
-						<failOnMissingWebXml>false</failOnMissingWebXml>
+						<!-- <failOnMissingWebXml>false</failOnMissingWebXml> -->
+						<webXml>..\teste-maven-01\src\main\webapp\web.xml</webXml>
 					</configuration>
 				</plugin>
 			</plugins>
