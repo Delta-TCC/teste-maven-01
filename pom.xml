@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.teste</groupId>
 	<artifactId>teste-maven-01</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>Teste Maven 01</name>
 	<description>Teste de projeto simples com o Maven</description>
@@ -34,5 +34,5 @@
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+	</dependencies>	
 </project>
